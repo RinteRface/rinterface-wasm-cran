@@ -1,5 +1,7 @@
 # rinterface-wasm-cran
 
+## Notes
+
 From George Stagg:
 
 > In Shinylive, there is some startup code to search for dependencies in an app and automatically install them before the app has loaded. With this, users do not need to know about webr::install(). However, the code does not take into account downloading from alternative repositories. I have opened an issue about it here: posit-dev/shinylive#125.
